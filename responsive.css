@@ -1,0 +1,9 @@
+@media (max-width:767px){
+    .nav-item{padding-left: 0px;}
+
+}
+
+@media (max-width:575px){
+    .carousel-caption{margin:20px auto;}
+    #demo h1{font-size:2.5rem;}
+}

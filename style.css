@@ -1,0 +1,73 @@
+.navbar{background:black;}
+.nav-item{padding-left: 20px;}
+
+#demo img{width:100%;}
+
+.carousel-item{height: 450px;}
+
+.carousel-caption{margin: 80px auto;}
+
+#s-section i{font-size: 40px; margin-bottom: 10px;}
+
+.overlay{background:rgba(0,0,0, 0.7);}
+
+#vdo{background:url('img/people.jpeg');
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#vdo i{font-size: 40px;}
+#vdo:hover i{ transition: .5s; color:rgb(255, 0, 0);}
+
+#t-section .mdl{width:80%; margin: auto;}
+
+#gallary img{min-height: 250px;}
+
+.footers{
+    background:black;
+}
+
+/* End Home Menu */
+
+#about{background:url('img/image1.jpeg');
+background-attachment: fixed;
+background-size: cover;
+}
+
+#abt-info img{
+width:350px;
+height: 350px;
+}
+
+#about-card i{font-size:40px;}
+
+/* End Home about */
+
+#services{
+    background:url('img/image3.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.card-footer p{margin-top:-03px;
+margin-bottom:-2px;}
+
+.bkm p{display: none;}
+
+#blogs{
+    background:url('img/image3.jpeg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#card-photo img{min-height:290px;
+width:100%;}
+
+#contact-us{
+    background:url('img/image2.jpeg');
+    background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
